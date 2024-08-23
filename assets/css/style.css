@@ -3924,6 +3924,11 @@ padding-left: 20px;
 }
 
 
+.about-image img {
+    transform: rotate(270deg); /* Adjust the angle if needed */
+    width: 100%; 
+    height: auto; 
+}
 
 
 
